@@ -1,0 +1,30 @@
+Student  0 started
+Shelve num 0 was sorted. 
+Student  1 started
+Shelve num 1 was sorted. 
+Student  2 started
+Shelve num 2 was sorted. 
+Student  3 started
+Shelve num 3 was sorted. 
+Student  4 started
+Shelve num 4 was sorted. 
+Student  5 started
+Shelve num 5 was sorted. 
+Student  6 started
+Shelve num 6 was sorted. 
+Student  7 started
+Shelve num 7 was sorted. 
+Student  8 started
+Shelve num 8 was sorted. 
+Student  9 started
+Student 0  finished
+Student 1  finished
+Student 2  finished
+Student 3  finished
+Shelve num 9 was sorted. 
+Student 4  finished
+Student 5  finished
+Student 6  finished
+Student 7  finished
+Student 8  finished
+Student 9  finished
